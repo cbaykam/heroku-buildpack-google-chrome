@@ -88,6 +88,7 @@ case "${STACK}" in
       libxss1
       libxtst6
       fonts-liberation
+      lsof
     "
     ;;
   *)
